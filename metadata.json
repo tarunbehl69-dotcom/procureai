@@ -1,0 +1,6 @@
+{
+  "name": "ProcureAI – Intelligent Procurement Copilot",
+  "description": "Enterprise AI-powered procurement copilot for quotation extraction, weighted vendor scoring, contract intelligence, and spend analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
